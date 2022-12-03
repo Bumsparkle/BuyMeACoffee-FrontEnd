@@ -1,4 +1,7 @@
 https://replit.com/@Bumsparkle/BuyMeACoffee-Solidity-DeFi-Tipping-app#styles/Home.module.css
+
+Has been edited to be a crypto 'scam' - deployed to Georli
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
